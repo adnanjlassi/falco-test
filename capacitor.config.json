@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "FalcoTest",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "FalcoTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d635a187"
+}
